@@ -1,5 +1,7 @@
 # A toolkit for designing and simulating Superconducting Nonlinear Asymmetric Inductive eLements for superconducting qubit experiments
 
+<img width="513" height="386" alt="snail_image" src="https://github.com/user-attachments/assets/a2afdbca-223a-472a-9097-db27f0118fc9" />
+
 This repository provides an integrated framework to desisgn SNAILs using qiskit metal, generate Ansys HFSS files automatically to simulate the designed devices classically, and then expanding on existing framework provided pyEPR to simualte the quantum parameters of the device with additional correction terms necessary for the flux biasing of SNAILs. The goal of this project is to automate and speed up the design-simulate-prep for fabrication cycle to test superconducting qubit devices. 
 
 Sources include [pyEPR](https://pyepr-docs.readthedocs.io/en/latest/), [qiskit metal](https://pypi.org/project/qiskit-metal/), and [the thesis by Dr. Frattini](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/2/3627/files/2023/07/Frattini_thesis.pdf). 
